@@ -1,0 +1,430 @@
+[INFO]-[2020/04/10 20:15:15] Cloning: nidocopy's clone job's data is not in database, generating data
+[INFO]-[2020/04/10 20:15:15] Cloning: nidocopy's clone job's data is not in database, generating data
+[INFO]-[2020/04/10 20:15:16] DB Copy: Creating table wpstg0_cn_social_icon
+[INFO]-[2020/04/10 20:15:16] DB Copy: wp_cn_social_icon as wpstg0_cn_social_icon from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:16] DB Copy: Creating table wpstg0_cn_social_icon
+[INFO]-[2020/04/10 20:15:16] DB Copy: wp_cn_social_icon as wpstg0_cn_social_icon from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:17] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2020/04/10 20:15:17] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2020/04/10 20:15:19] DB Copy: Creating table wpstg0_comments
+[INFO]-[2020/04/10 20:15:19] DB Copy: wp_comments as wpstg0_comments from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:19] DB Copy: Creating table wpstg0_comments
+[INFO]-[2020/04/10 20:15:19] DB Copy: wp_comments as wpstg0_comments from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:20] DB Copy: Creating table wpstg0_links
+[INFO]-[2020/04/10 20:15:20] DB Copy: Creating table wpstg0_links
+[INFO]-[2020/04/10 20:15:21] DB Copy: Creating table wpstg0_options
+[INFO]-[2020/04/10 20:15:21] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:21] DB Copy: Creating table wpstg0_options
+[INFO]-[2020/04/10 20:15:21] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:22] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2020/04/10 20:15:23] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:22] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2020/04/10 20:15:23] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:24] DB Copy: Creating table wpstg0_posts
+[INFO]-[2020/04/10 20:15:24] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:24] DB Copy: Creating table wpstg0_posts
+[INFO]-[2020/04/10 20:15:24] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:25] DB Copy: Creating table wpstg0_rich_web_photo_slider_instal
+[INFO]-[2020/04/10 20:15:25] DB Copy: Creating table wpstg0_rich_web_photo_slider_instal
+[INFO]-[2020/04/10 20:15:26] DB Copy: Creating table wpstg0_rich_web_photo_slider_instal_video
+[INFO]-[2020/04/10 20:15:26] DB Copy: Creating table wpstg0_rich_web_photo_slider_instal_video
+[INFO]-[2020/04/10 20:15:27] DB Copy: Creating table wpstg0_rich_web_photo_slider_manager
+[INFO]-[2020/04/10 20:15:27] DB Copy: Creating table wpstg0_rich_web_photo_slider_manager
+[INFO]-[2020/04/10 20:15:28] DB Copy: Creating table wpstg0_rich_web_slider_effect1
+[INFO]-[2020/04/10 20:15:28] DB Copy: wp_rich_web_slider_effect1 as wpstg0_rich_web_slider_effect1 from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:28] DB Copy: Creating table wpstg0_rich_web_slider_effect1
+[INFO]-[2020/04/10 20:15:28] DB Copy: wp_rich_web_slider_effect1 as wpstg0_rich_web_slider_effect1 from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:29] DB Copy: Creating table wpstg0_rich_web_slider_effect10
+[INFO]-[2020/04/10 20:15:29] DB Copy: wp_rich_web_slider_effect10 as wpstg0_rich_web_slider_effect10 from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:29] DB Copy: Creating table wpstg0_rich_web_slider_effect10
+[INFO]-[2020/04/10 20:15:29] DB Copy: wp_rich_web_slider_effect10 as wpstg0_rich_web_slider_effect10 from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:30] DB Copy: Creating table wpstg0_rich_web_slider_effect2
+[INFO]-[2020/04/10 20:15:30] DB Copy: wp_rich_web_slider_effect2 as wpstg0_rich_web_slider_effect2 from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:30] DB Copy: Creating table wpstg0_rich_web_slider_effect2
+[INFO]-[2020/04/10 20:15:30] DB Copy: wp_rich_web_slider_effect2 as wpstg0_rich_web_slider_effect2 from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:31] DB Copy: Creating table wpstg0_rich_web_slider_effect3
+[INFO]-[2020/04/10 20:15:32] DB Copy: wp_rich_web_slider_effect3 as wpstg0_rich_web_slider_effect3 from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:31] DB Copy: Creating table wpstg0_rich_web_slider_effect3
+[INFO]-[2020/04/10 20:15:32] DB Copy: wp_rich_web_slider_effect3 as wpstg0_rich_web_slider_effect3 from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:33] DB Copy: Creating table wpstg0_rich_web_slider_effect4
+[INFO]-[2020/04/10 20:15:33] DB Copy: wp_rich_web_slider_effect4 as wpstg0_rich_web_slider_effect4 from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:33] DB Copy: Creating table wpstg0_rich_web_slider_effect4
+[INFO]-[2020/04/10 20:15:33] DB Copy: wp_rich_web_slider_effect4 as wpstg0_rich_web_slider_effect4 from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:34] DB Copy: Creating table wpstg0_rich_web_slider_effect5
+[INFO]-[2020/04/10 20:15:34] DB Copy: wp_rich_web_slider_effect5 as wpstg0_rich_web_slider_effect5 from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:34] DB Copy: Creating table wpstg0_rich_web_slider_effect5
+[INFO]-[2020/04/10 20:15:34] DB Copy: wp_rich_web_slider_effect5 as wpstg0_rich_web_slider_effect5 from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:34] DB Copy: Creating table wpstg0_rich_web_slider_effect6
+[INFO]-[2020/04/10 20:15:35] DB Copy: wp_rich_web_slider_effect6 as wpstg0_rich_web_slider_effect6 from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:34] DB Copy: Creating table wpstg0_rich_web_slider_effect6
+[INFO]-[2020/04/10 20:15:35] DB Copy: wp_rich_web_slider_effect6 as wpstg0_rich_web_slider_effect6 from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:36] DB Copy: Creating table wpstg0_rich_web_slider_effect7
+[INFO]-[2020/04/10 20:15:36] DB Copy: wp_rich_web_slider_effect7 as wpstg0_rich_web_slider_effect7 from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:36] DB Copy: Creating table wpstg0_rich_web_slider_effect7
+[INFO]-[2020/04/10 20:15:36] DB Copy: wp_rich_web_slider_effect7 as wpstg0_rich_web_slider_effect7 from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:37] DB Copy: Creating table wpstg0_rich_web_slider_effect8
+[INFO]-[2020/04/10 20:15:37] DB Copy: wp_rich_web_slider_effect8 as wpstg0_rich_web_slider_effect8 from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:37] DB Copy: Creating table wpstg0_rich_web_slider_effect8
+[INFO]-[2020/04/10 20:15:37] DB Copy: wp_rich_web_slider_effect8 as wpstg0_rich_web_slider_effect8 from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:38] DB Copy: Creating table wpstg0_rich_web_slider_effect9
+[INFO]-[2020/04/10 20:15:38] DB Copy: wp_rich_web_slider_effect9 as wpstg0_rich_web_slider_effect9 from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:38] DB Copy: Creating table wpstg0_rich_web_slider_effect9
+[INFO]-[2020/04/10 20:15:38] DB Copy: wp_rich_web_slider_effect9 as wpstg0_rich_web_slider_effect9 from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:39] DB Copy: Creating table wpstg0_rich_web_slider_effects_data
+[INFO]-[2020/04/10 20:15:39] DB Copy: wp_rich_web_slider_effects_data as wpstg0_rich_web_slider_effects_data from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:39] DB Copy: Creating table wpstg0_rich_web_slider_effects_data
+[INFO]-[2020/04/10 20:15:39] DB Copy: wp_rich_web_slider_effects_data as wpstg0_rich_web_slider_effects_data from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:40] DB Copy: Creating table wpstg0_rich_web_slider_font_family
+[INFO]-[2020/04/10 20:15:40] DB Copy: wp_rich_web_slider_font_family as wpstg0_rich_web_slider_font_family from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:40] DB Copy: Creating table wpstg0_rich_web_slider_font_family
+[INFO]-[2020/04/10 20:15:40] DB Copy: wp_rich_web_slider_font_family as wpstg0_rich_web_slider_font_family from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:41] DB Copy: Creating table wpstg0_rich_web_slider_id
+[INFO]-[2020/04/10 20:15:41] DB Copy: Creating table wpstg0_rich_web_slider_id
+[INFO]-[2020/04/10 20:15:42] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2020/04/10 20:15:42] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:42] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2020/04/10 20:15:42] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:43] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2020/04/10 20:15:43] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:43] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2020/04/10 20:15:43] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:44] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2020/04/10 20:15:44] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2020/04/10 20:15:45] DB Copy: Creating table wpstg0_terms
+[INFO]-[2020/04/10 20:15:45] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:45] DB Copy: Creating table wpstg0_terms
+[INFO]-[2020/04/10 20:15:45] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:46] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2020/04/10 20:15:48] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:46] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2020/04/10 20:15:48] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:49] DB Copy: Creating table wpstg0_users
+[INFO]-[2020/04/10 20:15:49] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2020/04/10 20:15:49] DB Copy: Creating table wpstg0_users
+[INFO]-[2020/04/10 20:15:49] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 20:15:50] DB Search & Replace:  Table wpstg0_cn_social_icon 0 to 5000 records
+[INFO]-[2020/04/10 20:15:50] DB Search & Replace:  Table wpstg0_cn_social_icon 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 20:15:52] DB Search & Replace:  Table wpstg0_comments 0 to 5000 records
+[INFO]-[2020/04/10 20:15:52] DB Search & Replace:  Table wpstg0_comments 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 20:15:53] DB Search & Replace:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2020/04/10 20:15:53] DB Search & Replace:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2020/04/10 20:15:54] DB Search & Replace:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2020/04/10 20:15:54] DB Search & Replace:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2020/04/10 20:15:56] DB Search & Replace:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2020/04/10 20:15:56] DB Search & Replace:  Table wpstg0_posts 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 20:16:05] DB Search & Replace:  Table wpstg0_rich_web_slider_effect1 0 to 5000 records
+[INFO]-[2020/04/10 20:16:05] DB Search & Replace:  Table wpstg0_rich_web_slider_effect1 0 to 5000 records
+[INFO]-[2020/04/10 20:16:06] DB Search & Replace:  Table wpstg0_rich_web_slider_effect10 0 to 5000 records
+[INFO]-[2020/04/10 20:16:06] DB Search & Replace:  Table wpstg0_rich_web_slider_effect10 0 to 5000 records
+[INFO]-[2020/04/10 20:16:07] DB Search & Replace:  Table wpstg0_rich_web_slider_effect2 0 to 5000 records
+[INFO]-[2020/04/10 20:16:07] DB Search & Replace:  Table wpstg0_rich_web_slider_effect2 0 to 5000 records
+[INFO]-[2020/04/10 20:16:07] DB Search & Replace:  Table wpstg0_rich_web_slider_effect3 0 to 5000 records
+[INFO]-[2020/04/10 20:16:07] DB Search & Replace:  Table wpstg0_rich_web_slider_effect3 0 to 5000 records
+[INFO]-[2020/04/10 20:16:08] DB Search & Replace:  Table wpstg0_rich_web_slider_effect4 0 to 5000 records
+[INFO]-[2020/04/10 20:16:08] DB Search & Replace:  Table wpstg0_rich_web_slider_effect4 0 to 5000 records
+[INFO]-[2020/04/10 20:16:09] DB Search & Replace:  Table wpstg0_rich_web_slider_effect5 0 to 5000 records
+[INFO]-[2020/04/10 20:16:09] DB Search & Replace:  Table wpstg0_rich_web_slider_effect5 0 to 5000 records
+[INFO]-[2020/04/10 20:16:09] DB Search & Replace:  Table wpstg0_rich_web_slider_effect6 0 to 5000 records
+[INFO]-[2020/04/10 20:16:09] DB Search & Replace:  Table wpstg0_rich_web_slider_effect6 0 to 5000 records
+[INFO]-[2020/04/10 20:16:10] DB Search & Replace:  Table wpstg0_rich_web_slider_effect7 0 to 5000 records
+[INFO]-[2020/04/10 20:16:10] DB Search & Replace:  Table wpstg0_rich_web_slider_effect7 0 to 5000 records
+[INFO]-[2020/04/10 20:16:11] DB Search & Replace:  Table wpstg0_rich_web_slider_effect8 0 to 5000 records
+[INFO]-[2020/04/10 20:16:11] DB Search & Replace:  Table wpstg0_rich_web_slider_effect8 0 to 5000 records
+[INFO]-[2020/04/10 20:16:12] DB Search & Replace:  Table wpstg0_rich_web_slider_effect9 0 to 5000 records
+[INFO]-[2020/04/10 20:16:12] DB Search & Replace:  Table wpstg0_rich_web_slider_effect9 0 to 5000 records
+[INFO]-[2020/04/10 20:16:13] DB Search & Replace:  Table wpstg0_rich_web_slider_effects_data 0 to 5000 records
+[INFO]-[2020/04/10 20:16:13] DB Search & Replace:  Table wpstg0_rich_web_slider_effects_data 0 to 5000 records
+[INFO]-[2020/04/10 20:16:13] DB Search & Replace:  Table wpstg0_rich_web_slider_font_family 0 to 5000 records
+[INFO]-[2020/04/10 20:16:13] DB Search & Replace:  Table wpstg0_rich_web_slider_font_family 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 20:16:15] DB Search & Replace:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2020/04/10 20:16:15] DB Search & Replace:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2020/04/10 20:16:15] DB Search & Replace:  Table wpstg0_term_taxonomy 0 to 5000 records
+[INFO]-[2020/04/10 20:16:15] DB Search & Replace:  Table wpstg0_term_taxonomy 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 20:16:17] DB Search & Replace:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2020/04/10 20:16:17] DB Search & Replace:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2020/04/10 20:16:17] DB Search & Replace:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2020/04/10 20:16:17] DB Search & Replace:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2020/04/10 20:16:18] DB Search & Replace:  Table wpstg0_users 0 to 5000 records
+[INFO]-[2020/04/10 20:16:18] DB Search & Replace:  Table wpstg0_users 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 20:16:19] Scanning / for files
+[INFO]-[2020/04/10 20:16:19] Scanning / for files
+[INFO]-[2020/04/10 20:16:20] Scanning wp-content folder C:\xampp\htdocs\NidoDone/wp-content
+[INFO]-[2020/04/10 20:16:20] Scanning wp-content folder C:\xampp\htdocs\NidoDone/wp-content
+[INFO]-[2020/04/10 20:16:28] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2020/04/10 20:16:28] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2020/04/10 20:16:33] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2020/04/10 20:16:33] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2020/04/10 20:16:35] Copying files...
+[INFO]-[2020/04/10 20:16:39] Total 50 files processed
+[INFO]-[2020/04/10 20:16:35] Copying files...
+[INFO]-[2020/04/10 20:16:39] Total 50 files processed
+[INFO]-[2020/04/10 20:16:44] Total 100 files processed
+[INFO]-[2020/04/10 20:16:44] Total 100 files processed
+[INFO]-[2020/04/10 20:16:47] Total 150 files processed
+[INFO]-[2020/04/10 20:16:47] Total 150 files processed
+[INFO]-[2020/04/10 20:16:56] Total 200 files processed
+[INFO]-[2020/04/10 20:16:56] Total 200 files processed
+[INFO]-[2020/04/10 20:17:00] Total 250 files processed
+[INFO]-[2020/04/10 20:17:00] Total 250 files processed
+[INFO]-[2020/04/10 20:17:12] Total 300 files processed
+[INFO]-[2020/04/10 20:17:12] Total 300 files processed
+[INFO]-[2020/04/10 20:17:14] Total 350 files processed
+[INFO]-[2020/04/10 20:17:14] Total 350 files processed
+[INFO]-[2020/04/10 20:17:16] Total 400 files processed
+[INFO]-[2020/04/10 20:17:16] Total 400 files processed
+[INFO]-[2020/04/10 20:17:20] Total 450 files processed
+[INFO]-[2020/04/10 20:17:20] Total 450 files processed
+[INFO]-[2020/04/10 20:17:25] Total 500 files processed
+[INFO]-[2020/04/10 20:17:25] Total 500 files processed
+[INFO]-[2020/04/10 20:17:29] Total 550 files processed
+[INFO]-[2020/04/10 20:17:29] Total 550 files processed
+[INFO]-[2020/04/10 20:17:34] Total 600 files processed
+[INFO]-[2020/04/10 20:17:34] Total 600 files processed
+[INFO]-[2020/04/10 20:17:42] Total 650 files processed
+[INFO]-[2020/04/10 20:17:42] Total 650 files processed
+[INFO]-[2020/04/10 20:17:46] Total 700 files processed
+[INFO]-[2020/04/10 20:17:46] Total 700 files processed
+[INFO]-[2020/04/10 20:17:49] Total 750 files processed
+[INFO]-[2020/04/10 20:17:49] Total 750 files processed
+[INFO]-[2020/04/10 20:17:53] Total 800 files processed
+[INFO]-[2020/04/10 20:17:53] Total 800 files processed
+[INFO]-[2020/04/10 20:17:56] Total 850 files processed
+[INFO]-[2020/04/10 20:17:56] Total 850 files processed
+[INFO]-[2020/04/10 20:17:59] Total 900 files processed
+[INFO]-[2020/04/10 20:17:59] Total 900 files processed
+[INFO]-[2020/04/10 20:18:02] Total 950 files processed
+[INFO]-[2020/04/10 20:18:02] Total 950 files processed
+[INFO]-[2020/04/10 20:18:06] Total 1000 files processed
+[INFO]-[2020/04/10 20:18:06] Total 1000 files processed
+[INFO]-[2020/04/10 20:18:13] Total 1050 files processed
+[INFO]-[2020/04/10 20:18:13] Total 1050 files processed
+[INFO]-[2020/04/10 20:18:21] Total 1100 files processed
+[INFO]-[2020/04/10 20:18:21] Total 1100 files processed
+[INFO]-[2020/04/10 20:18:27] Total 1150 files processed
+[INFO]-[2020/04/10 20:18:27] Total 1150 files processed
+[INFO]-[2020/04/10 20:18:30] Total 1200 files processed
+[INFO]-[2020/04/10 20:18:30] Total 1200 files processed
+[INFO]-[2020/04/10 20:18:34] Total 1250 files processed
+[INFO]-[2020/04/10 20:18:34] Total 1250 files processed
+[INFO]-[2020/04/10 20:18:38] Total 1300 files processed
+[INFO]-[2020/04/10 20:18:38] Total 1300 files processed
+[INFO]-[2020/04/10 20:18:40] Total 1350 files processed
+[INFO]-[2020/04/10 20:18:40] Total 1350 files processed
+[INFO]-[2020/04/10 20:18:42] Total 1400 files processed
+[INFO]-[2020/04/10 20:18:42] Total 1400 files processed
+[INFO]-[2020/04/10 20:18:44] Total 1450 files processed
+[INFO]-[2020/04/10 20:18:44] Total 1450 files processed
+[INFO]-[2020/04/10 20:18:46] Total 1500 files processed
+[INFO]-[2020/04/10 20:18:46] Total 1500 files processed
+[INFO]-[2020/04/10 20:18:48] Total 1550 files processed
+[INFO]-[2020/04/10 20:18:48] Total 1550 files processed
+[INFO]-[2020/04/10 20:18:51] Total 1600 files processed
+[INFO]-[2020/04/10 20:18:51] Total 1600 files processed
+[INFO]-[2020/04/10 20:18:54] Total 1650 files processed
+[INFO]-[2020/04/10 20:18:54] Total 1650 files processed
+[INFO]-[2020/04/10 20:18:58] Total 1700 files processed
+[INFO]-[2020/04/10 20:18:58] Total 1700 files processed
+[INFO]-[2020/04/10 20:19:00] Total 1750 files processed
+[INFO]-[2020/04/10 20:19:00] Total 1750 files processed
+[INFO]-[2020/04/10 20:19:04] Total 1800 files processed
+[INFO]-[2020/04/10 20:19:04] Total 1800 files processed
+[INFO]-[2020/04/10 20:19:07] Total 1850 files processed
+[INFO]-[2020/04/10 20:19:07] Total 1850 files processed
+[INFO]-[2020/04/10 20:19:11] Total 1900 files processed
+[INFO]-[2020/04/10 20:19:11] Total 1900 files processed
+[INFO]-[2020/04/10 20:19:16] Total 1950 files processed
+[INFO]-[2020/04/10 20:19:16] Total 1950 files processed
+[INFO]-[2020/04/10 20:19:19] Trying to copy big file: C:/xampp/htdocs/NidoDone/wp-content/uploads/2020/04/5_Planes_para_las_vacaciones_de_invierno.jpg -> C:/xampp/htdocs/NidoDone/nidocopy/wp-content/uploads/2020/04/5_Planes_para_las_vacaciones_de_invierno.jpg
+[INFO]-[2020/04/10 20:19:21] Total 2000 files processed
+[INFO]-[2020/04/10 20:19:19] Trying to copy big file: C:/xampp/htdocs/NidoDone/wp-content/uploads/2020/04/5_Planes_para_las_vacaciones_de_invierno.jpg -> C:/xampp/htdocs/NidoDone/nidocopy/wp-content/uploads/2020/04/5_Planes_para_las_vacaciones_de_invierno.jpg
+[INFO]-[2020/04/10 20:19:21] Total 2000 files processed
+[INFO]-[2020/04/10 20:19:25] Total 2050 files processed
+[INFO]-[2020/04/10 20:19:25] Total 2050 files processed
+[INFO]-[2020/04/10 20:19:29] Total 2100 files processed
+[INFO]-[2020/04/10 20:19:29] Total 2100 files processed
+[INFO]-[2020/04/10 20:19:34] Total 2150 files processed
+[INFO]-[2020/04/10 20:19:34] Total 2150 files processed
+[INFO]-[2020/04/10 20:19:41] Total 2200 files processed
+[INFO]-[2020/04/10 20:19:41] Total 2200 files processed
+[INFO]-[2020/04/10 20:19:45] Total 2250 files processed
+[INFO]-[2020/04/10 20:19:45] Total 2250 files processed
+[INFO]-[2020/04/10 20:19:46] Skipping big file: C:/xampp/htdocs/NidoDone/wp-content/uploads/2020/04/videoplayback.mp4
+[INFO]-[2020/04/10 20:19:47] Total 2300 files processed
+[INFO]-[2020/04/10 20:19:46] Skipping big file: C:/xampp/htdocs/NidoDone/wp-content/uploads/2020/04/videoplayback.mp4
+[INFO]-[2020/04/10 20:19:47] Total 2300 files processed
+[INFO]-[2020/04/10 20:19:52] Total 2350 files processed
+[INFO]-[2020/04/10 20:19:52] Total 2350 files processed
+[INFO]-[2020/04/10 20:19:55] Total 2400 files processed
+[INFO]-[2020/04/10 20:19:55] Total 2400 files processed
+[INFO]-[2020/04/10 20:19:59] Total 2450 files processed
+[INFO]-[2020/04/10 20:19:59] Total 2450 files processed
+[INFO]-[2020/04/10 20:20:02] Total 2500 files processed
+[INFO]-[2020/04/10 20:20:02] Total 2500 files processed
+[INFO]-[2020/04/10 20:20:06] Total 2550 files processed
+[INFO]-[2020/04/10 20:20:06] Total 2550 files processed
+[INFO]-[2020/04/10 20:20:11] Total 2600 files processed
+[INFO]-[2020/04/10 20:20:11] Total 2600 files processed
+[INFO]-[2020/04/10 20:20:12] Total 2650 files processed
+[INFO]-[2020/04/10 20:20:12] Total 2650 files processed
+[INFO]-[2020/04/10 20:20:17] Total 2700 files processed
+[INFO]-[2020/04/10 20:20:17] Total 2700 files processed
+[INFO]-[2020/04/10 20:20:29] Total 2750 files processed
+[INFO]-[2020/04/10 20:20:29] Total 2750 files processed
+[INFO]-[2020/04/10 20:20:38] Total 2800 files processed
+[INFO]-[2020/04/10 20:20:38] Total 2800 files processed
+[INFO]-[2020/04/10 20:20:44] Total 2850 files processed
+[INFO]-[2020/04/10 20:20:44] Total 2850 files processed
+[INFO]-[2020/04/10 20:20:51] Total 2900 files processed
+[INFO]-[2020/04/10 20:20:51] Total 2900 files processed
+[INFO]-[2020/04/10 20:20:58] Total 2950 files processed
+[INFO]-[2020/04/10 20:20:58] Total 2950 files processed
+[INFO]-[2020/04/10 20:21:04] Total 3000 files processed
+[INFO]-[2020/04/10 20:21:04] Total 3000 files processed
+[INFO]-[2020/04/10 20:21:10] Total 3050 files processed
+[INFO]-[2020/04/10 20:21:10] Total 3050 files processed
+[INFO]-[2020/04/10 20:21:17] Total 3100 files processed
+[INFO]-[2020/04/10 20:21:17] Total 3100 files processed
+[INFO]-[2020/04/10 20:21:20] Total 3150 files processed
+[INFO]-[2020/04/10 20:21:20] Total 3150 files processed
+[INFO]-[2020/04/10 20:21:23] Total 3200 files processed
+[INFO]-[2020/04/10 20:21:23] Total 3200 files processed
+[INFO]-[2020/04/10 20:21:27] Total 3250 files processed
+[INFO]-[2020/04/10 20:21:27] Total 3250 files processed
+[INFO]-[2020/04/10 20:21:32] Total 3300 files processed
+[INFO]-[2020/04/10 20:21:32] Total 3300 files processed
+[INFO]-[2020/04/10 20:21:37] Total 3350 files processed
+[INFO]-[2020/04/10 20:21:37] Total 3350 files processed
+[INFO]-[2020/04/10 20:21:42] Total 3400 files processed
+[INFO]-[2020/04/10 20:21:42] Total 3400 files processed
+[INFO]-[2020/04/10 20:21:47] Total 3450 files processed
+[INFO]-[2020/04/10 20:21:47] Total 3450 files processed
+[INFO]-[2020/04/10 20:21:50] Total 3500 files processed
+[INFO]-[2020/04/10 20:21:50] Total 3500 files processed
+[INFO]-[2020/04/10 20:21:55] Total 3550 files processed
+[INFO]-[2020/04/10 20:21:55] Total 3550 files processed
+[INFO]-[2020/04/10 20:21:57] Total 3600 files processed
+[INFO]-[2020/04/10 20:21:57] Total 3600 files processed
+[INFO]-[2020/04/10 20:22:00] Total 3650 files processed
+[INFO]-[2020/04/10 20:22:00] Total 3650 files processed
+[INFO]-[2020/04/10 20:22:13] Total 3700 files processed
+[INFO]-[2020/04/10 20:22:13] Total 3700 files processed
+[INFO]-[2020/04/10 20:22:23] Total 3750 files processed
+[INFO]-[2020/04/10 20:22:23] Total 3750 files processed
+[INFO]-[2020/04/10 20:22:27] Total 3800 files processed
+[INFO]-[2020/04/10 20:22:27] Total 3800 files processed
+[INFO]-[2020/04/10 20:22:31] Total 3850 files processed
+[INFO]-[2020/04/10 20:22:31] Total 3850 files processed
+[INFO]-[2020/04/10 20:22:38] Total 3900 files processed
+[INFO]-[2020/04/10 20:22:38] Total 3900 files processed
+[WARNING]-[2020/04/10 20:22:44] File doesn't exist C:/xampp/htdocs/NidoDone/
+[WARNING]-[2020/04/10 20:22:44] File doesn't exist C:/xampp/htdocs/NidoDone/
+[INFO]-[2020/04/10 20:22:44] Copying files finished
+[INFO]-[2020/04/10 20:22:44] Copying files finished
+[INFO]-[2020/04/10 20:22:45] Preparing Data Step0: Copy wp-config.php file
+[INFO]-[2020/04/10 20:22:45] Preparing Data Step0: Copy wp-config.php file
+[INFO]-[2020/04/10 20:22:45] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2020/04/10 20:22:45] Preparing Data Step1: Updating siteurl and homeurl to http://localhost/nidodone/nidocopy
+[INFO]-[2020/04/10 20:22:45] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2020/04/10 20:22:45] Preparing Data Step1: Updating siteurl and homeurl to http://localhost/nidodone/nidocopy
+[INFO]-[2020/04/10 20:22:46] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2020/04/10 20:22:46] Preparing Data Step2: Successful
+[INFO]-[2020/04/10 20:22:46] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2020/04/10 20:22:46] Preparing Data Step2: Successful
+[INFO]-[2020/04/10 20:22:47] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2020/04/10 20:22:47] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2020/04/10 20:22:47] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2020/04/10 20:22:47] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2020/04/10 20:22:48] Preparing Data Step5: Updating table_prefix in C:\xampp\htdocs\NidoDone\nidocopy/wp-config.php to wpstg0_
+[INFO]-[2020/04/10 20:22:48] Preparing Data Step5: Updating table_prefix in C:\xampp\htdocs\NidoDone\nidocopy/wp-config.php to wpstg0_
+[INFO]-[2020/04/10 20:22:49] Preparing Data Step6: WP installation is not in a subdirectory! Skipping this step
+[INFO]-[2020/04/10 20:22:49] Preparing Data Step6: WP installation is not in a subdirectory! Skipping this step
+[INFO]-[2020/04/10 20:22:49] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2020/04/10 20:22:49] Preparing Data Step7: Finished successfully
+[INFO]-[2020/04/10 20:22:49] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2020/04/10 20:22:49] Preparing Data Step7: Finished successfully
+[INFO]-[2020/04/10 20:22:50] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2020/04/10 20:22:50] Preparing Data Step8: Finished successfully
+[INFO]-[2020/04/10 20:22:50] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2020/04/10 20:22:50] Preparing Data Step8: Finished successfully
+[INFO]-[2020/04/10 20:22:51] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2020/04/10 20:22:51] Preparing Data Step9: Finished successfully
+[INFO]-[2020/04/10 20:22:51] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2020/04/10 20:22:51] Preparing Data Step9: Finished successfully
+[INFO]-[2020/04/10 20:22:51] Preparing Data Step10: Updating WP_HOME in wp-config.php to http://localhost/nidodone/nidocopy
+[INFO]-[2020/04/10 20:22:51] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 20:22:51] Preparing Data Step10: Finished successfully
+[INFO]-[2020/04/10 20:22:51] Preparing Data Step10: Updating WP_HOME in wp-config.php to http://localhost/nidodone/nidocopy
+[INFO]-[2020/04/10 20:22:51] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 20:22:51] Preparing Data Step10: Finished successfully
+[INFO]-[2020/04/10 20:22:52] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to http://localhost/nidodone/nidocopy
+[INFO]-[2020/04/10 20:22:52] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 20:22:52] Preparing Data Step11: Finished successfully
+[INFO]-[2020/04/10 20:22:52] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to http://localhost/nidodone/nidocopy
+[INFO]-[2020/04/10 20:22:52] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 20:22:52] Preparing Data Step11: Finished successfully
+[INFO]-[2020/04/10 20:22:52] Preparing Data Step12: Updating db prefix in wpstg0_options.
+[INFO]-[2020/04/10 20:22:52] Preparing Data Step12: Skip (custom filtered):   AND option_name <> 'wp_mail_smtp' AND option_name <> 'wp_mail_smtp_version' AND option_name <> 'wp_mail_smtp_debug'
+[INFO]-[2020/04/10 20:22:52] Preparing Data Step12: Finished successfully
+[INFO]-[2020/04/10 20:22:52] Preparing Data Step12: Updating db prefix in wpstg0_options.
+[INFO]-[2020/04/10 20:22:52] Preparing Data Step12: Skip (custom filtered):   AND option_name <> 'wp_mail_smtp' AND option_name <> 'wp_mail_smtp_version' AND option_name <> 'wp_mail_smtp_debug'
+[INFO]-[2020/04/10 20:22:52] Preparing Data Step12: Finished successfully
+[INFO]-[2020/04/10 20:22:53] Preparing Data Step13: Updating upload_path wpstg0_options.
+[INFO]-[2020/04/10 20:22:53] Preparing Data Step13: Skipped
+[INFO]-[2020/04/10 20:22:53] Preparing Data Step13: Updating upload_path wpstg0_options.
+[INFO]-[2020/04/10 20:22:53] Preparing Data Step13: Skipped
+[INFO]-[2020/04/10 20:22:53] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2020/04/10 20:22:53] Preparing Data Step14: WP_CACHE not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 20:22:53] Preparing Data Step14: Finished successfully
+[INFO]-[2020/04/10 20:22:53] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2020/04/10 20:22:53] Preparing Data Step14: WP_CACHE not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 20:22:53] Preparing Data Step14: Finished successfully
+[INFO]-[2020/04/10 20:22:54] Preparing Data Step15: Set WP_CONTENT_DIR in wp-config.php to false
+[INFO]-[2020/04/10 20:22:54] Preparing Data Step15: WP_CONTENT_DIR not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 20:22:54] Preparing Data Step15: Finished successfully
+[INFO]-[2020/04/10 20:22:54] Preparing Data Step15: Set WP_CONTENT_DIR in wp-config.php to false
+[INFO]-[2020/04/10 20:22:54] Preparing Data Step15: WP_CONTENT_DIR not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 20:22:54] Preparing Data Step15: Finished successfully
+[INFO]-[2020/04/10 20:22:55] Preparing Data Step16: Set WP_CONTENT_URL in wp-config.php to false
+[INFO]-[2020/04/10 20:22:55] Preparing Data Step16: WP_CONTENT_URL not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 20:22:55] Preparing Data Step16: Finished successfully
+[INFO]-[2020/04/10 20:22:55] Preparing Data Step16: Set WP_CONTENT_URL in wp-config.php to false
+[INFO]-[2020/04/10 20:22:55] Preparing Data Step16: WP_CONTENT_URL not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 20:22:55] Preparing Data Step16: Finished successfully
+[INFO]-[2020/04/10 20:22:55] Preparing Data Step17: Update UPLOADS constant in wp-config.php
+[INFO]-[2020/04/10 20:22:55] Preparing Data Step17: UPLOADS not defined in wp-config.php. Creating new entry.
+[INFO]-[2020/04/10 20:22:55] Preparing Data Step17: Finished successfully
+[INFO]-[2020/04/10 20:22:55] Preparing Data Step17: Update UPLOADS constant in wp-config.php
+[INFO]-[2020/04/10 20:22:55] Preparing Data Step17: UPLOADS not defined in wp-config.php. Creating new entry.
+[INFO]-[2020/04/10 20:22:55] Preparing Data Step17: Finished successfully
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 20:22:58] Finish: Deleting clone job's cache files...
+[INFO]-[2020/04/10 20:22:58] Finish: Clone job's cache files have been deleted!
+[INFO]-[2020/04/10 20:22:58] Finish: Verifying existing clones...
+[INFO]-[2020/04/10 20:22:58] Finish: The job finished!
+[INFO]-[2020/04/10 20:22:58] Finish: Deleting clone job's cache files...
+[INFO]-[2020/04/10 20:22:58] Finish: Clone job's cache files have been deleted!
+[INFO]-[2020/04/10 20:22:58] Finish: Verifying existing clones...
+[INFO]-[2020/04/10 20:22:58] Finish: The job finished!
